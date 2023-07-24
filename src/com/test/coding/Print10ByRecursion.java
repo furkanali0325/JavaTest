@@ -11,7 +11,9 @@ public class Print10ByRecursion {
              System.out.println("adding details of these scenario");
             System.out.println("you can also add something that you need");
             System.out.println("you can also print something new here");
+            System.out.println("you can also print something new here");
             //for more info please visit to nearest branch.
+            //taking into cosdieration of all files we have consluded that nothing can be done apart from these things.
         }
         else{
             System.out.println(i++);
